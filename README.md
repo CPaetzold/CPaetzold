@@ -1,5 +1,5 @@
 <!--
-**CPaetzold/CPaetzold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CPaetzold/CPaetzold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
 Hey! I’m a software engineering student who loves turning ideas into clean and reliable code. I’m currently diving into SAP S/4HANA, ABAP, Fiori, and experimenting a bit with React — always looking for new projects to build and learn from.
